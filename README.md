@@ -12,3 +12,6 @@ For data generation we used some code and data from
 https://github.com/TimoBolkart/TF_FLAME
 and 
 https://github.com/Rubikplayer/flame-fitting
+
+
+In the case of Mediapipe library, download celebA aligned data and put in the folder "Mediapipe/data/celebA/img_align_celebA" and then run "save_lmks_from_mediapipe_output.py"
