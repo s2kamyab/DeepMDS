@@ -8,3 +8,5 @@ in the folder "PublicMM1" and then you can generate the data by running the scri
 In the case of FLAME model, download Coma dataset from
 https://coma.is.tue.mpg.de/
 and put in the folder "CoMA_raw_data" and then run "gen_tr_tst_flame.py"
+For data generation we used some code and data from 
+https://github.com/TimoBolkart/TF_FLAME
